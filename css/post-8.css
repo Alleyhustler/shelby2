@@ -1,0 +1,497 @@
+.elementor-8 .elementor-element.elementor-element-c3c7df6 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-643ee52 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-left: 20px;
+    --padding-right: 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-643ee52:not(.elementor-motion-effects-element-type-background), .elementor-8 .elementor-element.elementor-element-643ee52 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+.elementor-8 .elementor-element.elementor-element-643ee52, .elementor-8 .elementor-element.elementor-element-643ee52::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-b94d345 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-d8d29c3 .elementor-heading-title {
+    color: #2c2c2c;
+    font-family: "GTA", Sans-serif;
+    font-size: 82px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-bb6f07a .elementor-heading-title {
+    color: #656262;
+    font-family: "GTA", Sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-ad8ee2c {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 38px;
+    --grid-column-gap: 13px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ad8ee2c .elementor-widget-container {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-ad8ee2c .elementor-social-icon {
+    background-color: #2c2c2c;
+    --icon-padding: 0.3em;
+}
+
+.elementor-8 .elementor-element.elementor-element-53bc8d1 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-88c5444 {
+    --display: flex;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --overflow: hidden;
+    --background-transition: 0.3s;
+    --margin-top: -20px;
+    --margin-bottom: -95px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-695fad9 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: flex-end;
+    --align-items: flex-end;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-3b9dfdb > .elementor-widget-container {
+    margin: -60px 0px -30px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-3b9dfdb {
+    z-index: 1;
+}
+
+.elementor-8 .elementor-element.elementor-element-3b9dfdb img {
+    width: 72%;
+}
+
+.elementor-8 .elementor-element.elementor-element-26176da {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-6eaf427 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-668355c {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-left: 20px;
+    --padding-right: 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-65973c5 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-f803ebf {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-0d2448d {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-0d2448d .elementor-heading-title {
+    color: #2c2c2c;
+    font-family: "GTA", Sans-serif;
+    font-size: 94px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-b69578c .elementor-counter-number-wrapper {
+    color: #FFFFFF;
+    font-family: "GTA", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-417308c > .elementor-widget-container {
+    margin: -20px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-417308c {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-417308c .elementor-heading-title {
+    color: #D5D5D5;
+    font-family: "GTA", Sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-064633c {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-064633c .elementor-heading-title {
+    color: #F3F3F3;
+    font-family: "GTA", Sans-serif;
+    font-size: 64px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-784b560 > .elementor-widget-container {
+    margin: -20px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-784b560 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-784b560 .elementor-heading-title {
+    color: #D5D5D5;
+    font-family: "GTA", Sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-ec60c61 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-ec60c61 .elementor-heading-title {
+    color: #F3F3F3;
+    font-family: "GTA", Sans-serif;
+    font-size: 64px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-4a2ee2f > .elementor-widget-container {
+    margin: -20px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-4a2ee2f {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-4a2ee2f .elementor-heading-title {
+    color: #D5D5D5;
+    font-family: "GTA", Sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-d682f4b {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-ada82d6 .elementor-button {
+    font-family: "GTA", Sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    fill: #2c2c2c;
+    color: #2c2c2c;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #2c2c2c;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 10px 0px #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-da59556 .elementor-button {
+    font-family: "GTA", Sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    fill: #2c2c2c;
+    color: #2c2c2c;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #2c2c2c;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 10px 0px #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-fb232bb {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-f53f9a7 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-a13e45f {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-a13e45f .elementor-heading-title {
+    color: #2c2c2c;
+    font-family: "GTA", Sans-serif;
+    font-size: 94px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-4447af2 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-3cfb7a9 .elementor-wrapper {
+    --video-aspect-ratio: 1.77777;
+}
+
+.elementor-8 .elementor-element.elementor-element-b49a48d {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-c812df5 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-2b9eb2a {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-686787f .elementor-heading-title {
+    color: #2c2c2c;
+    font-family: "GTA", Sans-serif;
+    font-size: 94px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-96bbd17 .elementor-button {
+    font-family: "GTA", Sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    fill: #2c2c2c;
+    color: #2c2c2c;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #2c2c2c;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 10px 0px #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-66fa033 {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 38px;
+    --grid-column-gap: 13px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-66fa033 .elementor-widget-container {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-66fa033 .elementor-social-icon {
+    background-color: #2c2c2c;
+    --icon-padding: 0.3em;
+}
+
+body.elementor-page-8:not(.elementor-motion-effects-element-type-background), body.elementor-page-8 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+@media(max-width: 767px) {
+    .elementor-8 .elementor-element.elementor-element-0d2448d .elementor-heading-title {
+        font-size:44px;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-b69578c .elementor-counter-number-wrapper {
+        font-size: 36px;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-417308c .elementor-heading-title {
+        font-size: 24px;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-064633c .elementor-heading-title {
+        font-size: 36px;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-784b560 .elementor-heading-title {
+        font-size: 24px;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-ec60c61 .elementor-heading-title {
+        font-size: 36px;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-4a2ee2f .elementor-heading-title {
+        font-size: 24px;
+    }
+}
+
+@media(min-width: 768px) {
+    .elementor-8 .elementor-element.elementor-element-b94d345 {
+        --width:50%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-53bc8d1 {
+        --width: 50%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-65973c5 {
+        --width: 50%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-f803ebf {
+        --width: 50%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-c812df5 {
+        --width: 50%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-2b9eb2a {
+        --width: 50%;
+    }
+}
+
+/* Start Custom Fonts CSS */
+@font-face {
+    font-family: 'GTA';
+    font-style: normal;
+    font-weight: normal;
+    font-display: auto;
+    src: url('../fonts/pricedown-bl-1.woff') format('woff'), url('../fonts/pricedown-bl.ttf') format('truetype');
+}
+
+/* End Custom Fonts CSS */

@@ -1,0 +1,17 @@
+/* 
+CSS for the normal weight and style file for a custom font.
+Attempts to load the file locally first.
+Use the line that loads a woff2 version of the font if you have the required file,
+or else delete that line and just use the woff file loading line.
+Uses font-display:swap; to help the loading process.
+*/
+@font-face {
+    font-family: 'gta';
+    src: local('gta'),
+        
+        url('../fonts/gta.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
